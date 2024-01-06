@@ -1,23 +1,6 @@
-# Getting Started with Create React App
+Curso gratuito realizado en la plataforma Udemy para saber desde lo más básico de REACT JS, hasta el consumo de APIs con la creación de este mini proyecto.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Link del curso: https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito
 
 ### `npm run build`
 
